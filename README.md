@@ -12,6 +12,8 @@ I am a Colombian systems engineer with a passion for learning and technology.
 ## 📬 Get in touch
 
 - LinkedIn: [kevinluisfl](https://www.linkedin.com/in/kevinluisfl/)
+- Email: [ing.kevinflorez@gmail.com](mailto:ing.kevinflorez@gmail.com)
+- WhatsApp: [+57 311 379 7396](https://wa.me/573113797396)
 
 <a href = 'https://www.linkedin.com/in/kevinluisfl/'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a> 
 <a href = 'https://www.facebook.com/kevinluisfl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
