@@ -13,6 +13,7 @@ I am a Colombian systems engineer with a passion for learning and technology.
 
 - LinkedIn: [kevinluisfl](https://www.linkedin.com/in/kevinluisfl/)
 
+<a href = 'https://www.linkedin.com/in/kevinluisfl/'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a> 
 <a href = 'https://www.facebook.com/kevinluisfl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
 <a href = 'https://www.instagram.com/kevinluisfl/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.twitter.com/kevinluisfl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
